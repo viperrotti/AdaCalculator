@@ -12,6 +12,7 @@ namespace AdaCalculator
         {
             (string operation, double result) resultOperation;
             double c;
+
             switch (operation)
             {
                 case "divide":
